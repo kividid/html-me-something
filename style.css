@@ -113,6 +113,12 @@ li p:hover {
     padding: 30px 100px;
 }
 
-.textbox p {
+
+#order {
+    text-align: center;
+    float: center;
+}
+
+#wrap {
     max-width: 30%;
 }
